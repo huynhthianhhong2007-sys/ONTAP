@@ -177,15 +177,3 @@ DELIMITER ;
 UPDATE maintenance_orders
 SET order_status = 'Executed'
 WHERE order_id = 7001;
-
-
--- câu 2
--- Phần 7
--- câu 1
--- câu 2
-
-
--- câu 3
--- câu 4
--- câu 5
--- câu 6
